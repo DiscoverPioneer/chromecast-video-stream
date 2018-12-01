@@ -1,0 +1,27 @@
+PODS:
+  - CocoaAsyncSocket (7.6.3)
+  - google-cast-sdk (4.3.2):
+    - google-cast-sdk/Core (= 4.3.2)
+    - Protobuf (~> 3.0)
+  - google-cast-sdk/Core (4.3.2):
+    - Protobuf (~> 3.0)
+  - Protobuf (3.6.1)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - google-cast-sdk
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaAsyncSocket
+    - google-cast-sdk
+    - Protobuf
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  google-cast-sdk: 845b740ef8c47919185651ba62b36b2ed0cfab40
+  Protobuf: 1eb9700044745f00181c136ef21b8ff3ad5a0fd5
+
+PODFILE CHECKSUM: 4452ae0ba927f8d407f6aad04f5a1f0e33be7066
+
+COCOAPODS: 1.5.3
